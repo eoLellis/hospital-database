@@ -1,4 +1,5 @@
 -- é aqui onde a gente vai programar TUDO UHUULLL!!
+--fodaaaaaa
 
 CREATE DATABASE OI {
     oi int;
@@ -8,4 +9,8 @@ CREATE DATABASE OI {
 CREATE TABLE bomDia{
     bomdia TEXT;
     PRIMARY KEY(TEXT);
+}
+
+CREATE TABLE aloo{
+    sla int;
 }
