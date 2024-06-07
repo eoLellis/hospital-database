@@ -3,4 +3,9 @@
 CREATE DATABASE OI {
     oi int;
     primary key(oi);
+
+}
+CREATE TABLE bomDia{
+    bomdia TEXT;
+    PRIMARY KEY(TEXT);
 }
