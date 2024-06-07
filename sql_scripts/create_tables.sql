@@ -1,4 +1,6 @@
 -- é aqui onde a gente vai programar TUDO UHUULLL!
+
+-- OiIIIIIIRIS FGBOD FNJKNFDGBKJNBFDA
 CREATE DATABASE OI {
     oi int;
     primary key(oi);
